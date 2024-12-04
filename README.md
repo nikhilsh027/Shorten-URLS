@@ -7,7 +7,7 @@ This snippet of code will compress your link length and make it too short upto g
 
 `$ pip install pyshorteners`
 
-## Steps To Execution
+## Steps for Execution
 - Fork this repo and navigate to ShortenLinks folder
 - Run this code.py `$ python code.py`
 - Yay !! you got your shorten link as output
