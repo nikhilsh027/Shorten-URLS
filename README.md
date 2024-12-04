@@ -10,5 +10,8 @@ This snippet of code will compress your link length and make it too short upto g
 ## Steps To Execution
 - Fork this repo and navigate to ShortenLinks folder
 - Run this code.py `$ python code.py`
-- Yay !! you got your shorten link as output 
+- Yay !! you got your shorten link as output
+
+## Author
+ - [Nikhil](https://github.com/nikhilsh027)
 
